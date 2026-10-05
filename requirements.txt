@@ -1,0 +1,40 @@
+
+# Python code → Web UI → Human user
+streamlit
+#utilities
+numpy
+pandas
+
+#face recognition 
+# scikit-learn              → Machine Learning
+# dlib-bin                  → Computer Vision / Face Recognition
+# face_recognition_models   → Pre-trained Face Recognition Models
+# setuptools<70.0.0         → Python Package Installation / Building
+scikit-learn  
+dlib-bin
+git+https://github.com/ageitgey/face_recognition_models
+setuptools<70.0.0
+
+
+# database
+# 1 .Supabase = Backend + Database + Auth
+# 2.bcrypt = Protect passwords 
+supabase
+bcrypt
+ 
+
+
+#1.Segno is a Python library used to generate QR codes. 
+#2.Pillow is a Python library used for creating, opening, editing, and manipulating images.
+segno
+pillow
+
+
+
+
+
+# * **Librosa** — Python library for **audio/music analysis and feature extraction**.
+# * **Resemblyzer** — Python library for **speaker recognition and voice embeddings**.
+
+librosa
+resemblyzer
